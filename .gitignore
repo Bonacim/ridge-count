@@ -1,0 +1,6 @@
+__pycache__
+Dataset/FVC_SMALL
+DB*
+test.ipynb
+*.keras
+weights.hdf5
